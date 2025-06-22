@@ -1,5 +1,5 @@
 /** 文本 */
-export const siteName = 'Nólëbase'
+export const siteName = 'Chesterfalse'
 export const siteShortName = 'Nólëbase'
 export const siteDescription = '记录回忆，知识和畅想的地方'
 
