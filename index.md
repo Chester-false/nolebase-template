@@ -3,12 +3,12 @@ layout: home
 sidebar: false
 
 title: Nólëbase
-titleTemplate: 记录回忆，知识和畅想的地方
+titleTemplate: 记录生活，学习和畅想的地方
 
 hero:
   name: 
-  text: 记录回忆，知识和畅想的地方
-  tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  text: 记录生活，学习和畅想的地方
+  tagline: 来自浙江的小骆
   image:
     src: /logo.svg
     alt: Vitest
